@@ -1,0 +1,29 @@
+{
+  "id": "7a13bfa6-ec95-4397-816c-757a5cc620cb",
+  "name": "CleanUp",
+  "publisher": "Keith How",
+  "version": "1.0.0.0",
+  "brief": "Preparation for production database copy to sandbox.",
+  "description": "Preparation for production database copy to sandbox.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
