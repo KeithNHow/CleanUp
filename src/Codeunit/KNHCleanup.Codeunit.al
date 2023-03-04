@@ -1,7 +1,7 @@
 /// <summary>
-/// Codeunit "KNH Cleanup" (ID 50100).
+/// Codeunit "KNH_KNH Cleanup" (ID 50100).
 /// </summary>
-codeunit 50100 Cleanup
+codeunit 50100 "KNH_Cleanup"
 {
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Environment Cleanup", 'OnClearDatabaseConfig', '', true, true)]
     local procedure MyProcedure1(DestinationEnv: Enum "Environment Type"; SourceEnv: Enum "Environment Type")
