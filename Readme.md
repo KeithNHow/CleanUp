@@ -1,0 +1,2 @@
+# Summary
+This extension contains only a codeunit. This codeunit is used to subscribe to events of the Environment Cleanup codeunit in order to execute custom logic during the cleanup process. The event handlers check if the destination environment is a sandbox before executing any logic, ensuring that the cleanup process is only affected in sandbox environments.

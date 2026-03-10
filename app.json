@@ -1,8 +1,8 @@
 {
   "id": "7a13bfa6-ec95-4397-816c-757a5cc620cb",
   "name": "CleanUp",
-  "publisher": "Keith How",
-  "version": "1.0.0.0",
+  "publisher": "KeithHow",
+  "version": "27.0.0.0",
   "brief": "Preparation for production database copy to sandbox.",
   "description": "Preparation for production database copy to sandbox.",
   "privacyStatement": "",
@@ -12,7 +12,7 @@
   "logo": "./logo/KNH.jpg",
   "dependencies": [],
   "screenshots": [],
-  "platform": "1.0.0.0",
+  "platform": "27.0.0.0",
   "application": "27.0.0.0",
   "idRanges": [
     {
